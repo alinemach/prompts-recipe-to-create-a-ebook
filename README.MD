@@ -24,7 +24,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/alinemach/#" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/alinemach/prompts-recipe-to-create-a-ebook/blob/main/output/Code%20%26%20Chat%20Chatbots%20com%20Spring%20Boot%20e%20Dialogflow.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
